@@ -28,8 +28,8 @@ The voting can't be casted if there are being stakled . The smart phone will ale
 The voter may recommended to cast their vote in closed room ( bath room works fine too )
 
 ### Technologies used:
-Face / Object detection using camera ===>  Using open CV
-voting verification ==> blcok chain environment (microsoft azure)
-voting portal ==> a progressive web app
+* Face / Object detection using camera ===>  Using open CV
+* voting verification ==> blcok chain environment (microsoft azure)
+* voting portal ==> a progressive web app
 
 
