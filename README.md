@@ -1,8 +1,7 @@
 # Voting can be done at anywhere (preferablly closed)
---
- ## Team " in a flash "
+
+#### Team " in a flash "
  
---
 # The Issues we are focussing 
 * Voting in a specific area (vote booths)
 * Privacy in homes (public places in general)
